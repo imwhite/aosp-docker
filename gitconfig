@@ -1,0 +1,4 @@
+//gitconfig内容如下：
+[user]
+	email = yourname@example.com
+	name = yourname
