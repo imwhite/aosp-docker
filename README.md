@@ -11,6 +11,6 @@
 
 
 ## 3. 运行image
-3.1 修改 `run_docker.sh` 中 `<your aosp dir>` 内容，对应自己实际源码目录
-3.2 执行 `run_docker.sh`
+- 修改 `run_docker.sh` 中 `<your aosp dir>` 内容，对应自己实际源码目录
+- 执行 `run_docker.sh`
 
